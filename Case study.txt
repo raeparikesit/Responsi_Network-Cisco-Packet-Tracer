@@ -1,0 +1,36 @@
+In an office building there are 4 main rooms, namely Kumulo Artifact, Trans Artifact, Kana Tiger, and Titan Brave. Each room has the following conditions:
+
+1. Kumulo Artifact
+
+    a) Divided into 2 parts VLAN, namely:
+     VLAN 10, with description
+      - VLAN name is Dis
+      - Number of hosts 60
+      - Dynamic IP (DHCP)
+ 
+     VLAN 20, with description
+      - VLAN name is Dat
+      - Number of hosts 60
+      - Dynamic IP (DHCP)
+
+    b) RIP Routing Protocol v2
+
+2. Trans Artifact
+    a) Access Point, with configuration:
+     - SSID: Artifact Trans Hotspot
+     - Number of devices 125
+     - Dynamic IP (DHCP)
+
+    b) RIP Routing Protocol v2
+
+3. Kana Tiger
+  a) Dynamic IP (DHCP)
+  b) Number of devices 24 pieces
+  c) Static Routing Protocol
+
+4. Titan Brave
+  a) Contains a laptop connected to an Access Point
+  b) Number of laptops 88 pieces
+  c) Static Routing Protocol
+
+5. Between routers connected by serial cable
