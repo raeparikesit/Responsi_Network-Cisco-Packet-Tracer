@@ -43,7 +43,7 @@ In an office building there are 4 main rooms, namely Kumulo Artifact, Trans Arti
 ## DESIGN NETWORK
 ![Network-Responsi_screenshot](https://user-images.githubusercontent.com/93896646/154805654-d20f69cd-e910-40b2-b662-bd3bddbc5c7a.png)
 
-## Subnetting Table
+## SUBNETTING TABLE
 ![Screenshot (1489)](https://user-images.githubusercontent.com/93896646/154806445-b0915f65-dd38-491a-8482-384a2ab6c2c6.png)
 
 ## NOTE 
